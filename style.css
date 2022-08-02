@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.mail{
+    background-image: url('./img/uyt.jpg');
+    height: 100vh;
+    background-size: cover;
+}
+.logo{
+color: antiquewhite;
+}
+.link{
+    text-decoration: none;
+    color: bisque;
+}
+.link:hover{
+    color: yellow;
+}
+.button{
+    text-decoration: none;
+    border: 2px yellow;
+}
+.top-menu{
+    justify-content: space-between;
+}
